@@ -1,0 +1,21 @@
+1) Git Hub Link : https://github.com/sunnysavita10/
+
+2) used Langchian framework for RAG implementation.
+
+3) Hugging Face account:
+   
+      a) URL: https://huggingface.co/
+	     username: bmanoj426@gmail.com
+	     password: Maymonthsix@2026
+	  
+	  b) Hugging Face embbeded model used : sentence-transformers/all-MiniLM-L6-v2
+	     NOTE: It is a public Hugging Face model, so you do not need an HF_TOKEN to download or use it.
+		 
+4) For LLM we used ollama 
+	  
+	       1) URL : https://ollama.com/download/   -----> Downlaod Link for ollama installer.
+		   2) Install quen3 model usinmg command: ollama pull qwen3
+		   3) use command to run the model locally and terminal will open for prompting : ollama run qwen3
+		   4) use \b to exit the prompt.
+		   
+5) python version used is 3.5.12
