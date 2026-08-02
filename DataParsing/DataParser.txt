@@ -1,0 +1,3 @@
+GitHub URL: https://github.com/manoj-source/GenAI.git
+Data_Parsing_Langchain_data_loaders.ipynb file contains Logic of parsing pdf with Langchian Library.
+Data_Parsing_PyMuPDF_pdfplumber.ipynb file contain Logic of parsing pdf with PyMuPDF(fitz) and pdfplumber.
